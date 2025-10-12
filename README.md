@@ -4,11 +4,6 @@
   <br>
 </h1>
 
-<div align="center">
-  <a href="https://github.com/kavindu-dilshan">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,github" alt="Tech Stack" width="165" style="padding: 15px 0;">
-  </a>
-</div>
 
 <h3 align="center" style="margin: 20px 0;">
 Collection of projects showcasing CSS and Tailwind concepts
