@@ -28,18 +28,6 @@ A hands-on playground for practicing HTML, CSS, and Tailwind through real-world 
 
 ---
 
-## 🧠 What You’ll Learn
-
-- Semantic HTML structure
-- CSS fundamentals & layouts
-- Flexbox & Grid
-- Responsive design & media queries
-- Parallax effects
-- UI components & landing pages
-- Tailwind CSS utilities
-
----
-
 ## 🛠️ Installation
 
 ```bash
