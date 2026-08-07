@@ -9,7 +9,7 @@ A hands-on HTML & CSS learning environment focused on layouts, responsive design
 </h3>
 
 <div align="center">
-  <img src="./01-basic-landing-page/banner.png" alt="Banner" width="900">
+  <img src="./01-basic-landing-page/banner.jpg" alt="Banner" width="900">
 </div
 
 ---
